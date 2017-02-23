@@ -1,0 +1,16 @@
+Funktionen:
+  Benutzer registrieren.
+  Benutzer anmelden.
+  Benutzer abmelden.
+  Google Maps mit Anzeige von Döneständen.
+  Dönerstand per Adresse finden. 
+  Döner-Karte filtern nach Sternen und Entfernungen.
+  Der Standort des Users soll auf der Karte angezeigt werden. 
+  Bei klick auf Dönerstand soll eine Bewertung und ein Kommentar (Stern) abgegeben werden können.
+  Duch klicken auf den Dönerstand soll eine Funktion es den User ermöglichen seine Freunde einzuladen.
+  Freunde hinzufügen.
+  Freunde entfernen.
+  Freundesliste anzeigen.
+  Freunde per App einladen.
+  Einladungen empfangen und bestätigen.
+  
